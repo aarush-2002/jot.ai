@@ -1,0 +1,6 @@
+{
+  "name": "jot.ai - AI Academic Research Assistant",
+  "description": "AI-powered academic research assistant featuring synthesized evidence feeds, PICO framework extraction, contradiction detection, and an interactive draft canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
